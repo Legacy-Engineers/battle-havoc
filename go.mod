@@ -1,3 +1,3 @@
-module github.com/Legacy-Engineers/arena-breakout-clone
+module github.com/Legacy-Engineers/battle-havoc
 
 go 1.24.6
